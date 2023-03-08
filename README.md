@@ -7,15 +7,20 @@ This API was built to my understanding of the requirements, as there was no form
 
 # Requirements
 
-Background
+##Background
+
 You are working on a project for a company that provides a mobile app for users to find
 nearby restaurants and make reservations. The company has decided to use the Yelp Fusion
 API to obtain restaurant data.
-Task
+
+##Task
+
 Your task is to build an ASP.NET Core API server that integrates with the Yelp Fusion API and
 returns restaurant data to the mobile app. The mobile app will display restaurant
 information, including images and content, based on the data returned from the API.
-Requirements
+
+##Requirements
+
 1. Use the Yelp Fusion API to obtain restaurant data. You will need to sign up for a free
 Yelp Fusion API key to complete this task.
 2. Build an ASP.NET Core API server that exposes the following endpoints:
@@ -58,7 +63,9 @@ restaurant belongs to, with each object containing the following properties:
 • alias: A string representing the alias of the category (e.g. "japanese").
 • title: A string representing the title of the category (e.g. "Japanese").
 6. Write unit tests to ensure the functionality of the API server.
-Evaluation
+
+##Evaluation
+
 Your solution will be evaluated based on the following criteria:
 1. Correctness: Does your solution meet the requirements outlined above?
 2. Design: Is your code well-organized and easy to understand? Are you following best

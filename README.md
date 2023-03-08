@@ -111,6 +111,7 @@ Yelp Fusion API don't accept null location.
 ## Feedback
 
 A test case was developed using Unit that can also be used to test the API.
+
 Get requests are cached by default, a 5 minute cach has been set.
 
 Yelp Fusion API - https://docs.developer.yelp.com/docs/fusion-intro
